@@ -1,4 +1,4 @@
 def print_letter():
-    print('a')
+    print('b')
 
 print_letter()
